@@ -1,4 +1,4 @@
-#TicTacNo
+# TicTacNo
 
 An unbeatable TicTacToe game against an A.I. player using the Minimax algorithm. If the human player plays perfectly, the game will end in a draw every time. 
 
